@@ -39,11 +39,6 @@ A non-exhaustive list of projects, websites and other things that are known to h
 
 Messy, tossed salad of people that haven't even really understood the patch system. And yes, *it's [that bad](https://github.com/YatopiaMC/Yatopia)!*
 
-### [Mohist]
-> *Mohist is programmed to be malicious, game-breaking, and very unstable.*
-
-Mohist tricks users into deleting official plugin jars and [installing unofficial modified builds](https://essentialsx.net/do-not-use-mohist.html).
-
 ### Bukkit, CraftBukkit and Spigot
 > *Extremely outdated in terms of performance compared to other server software you have access to.*
 
