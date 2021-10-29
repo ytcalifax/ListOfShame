@@ -1,72 +1,3 @@
-[yatopia]:
-[sugarcanemc]: https://github.com/SugarcaneMC/Sugarcane
-[mohist]: https://essentialsx.net/do-not-use-mohist.html
-
-[worldql]: https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/
-
-[skinsrestorer]: https://github.com/SkinsRestorer/SkinsRestorerX
-
-[entitytrackerfixer]: https://github.com/Esmorall/EntityTrackerFixer
-
-[kangarko]: https://github.com/kangarko
-[academy]: https://www.jetbrains.com/academy/
-[blog-post]: https://www.andre601.ch/blog/posts/2020/12-20-in-defense-of-spigotmc/#point-2-abusing-knowledgedata
-[spigot]: https://www.spigotmc.org/threads/478408/
-
-[yooniks]: https://www.mc-market.org/members/126711/
-
-[clearlagg]: https://www.spigotmc.org/resources/68271/
-
-[cmi]: https://www.spigotmc.org/resources/3742/
-
-[songoda]: https://songoda.com/marketplace
-
-[neruxvace]: https://neruxvace.net/
-
-[mortal mines]: https://mortalmines.com/
-
-[mc18]: https://howoldisminecraft188.today/
-
-[mc1710]: https://howoldisminecraft1710.today/
-
-[viaversion]: https://github.com/ViaVersion/ViaVersion
-
-[protocolsupport]: https://www.spigotmc.org/resources/7201/
-
-[slimefun]: https://github.com/Slimefun/Slimefun4
-
-[fastasyncworldedit]: https://www.spigotmc.org/resources/13932/
-
-[asyncworldedit]: https://www.spigotmc.org/resources/9661/
-
-[illegalstack]: https://www.spigotmc.org/resources/44411/
-
-[epicworldgenerator]: https://www.spigotmc.org/resources/8067/
-[^ewg-code]: https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/
-[^rwg]: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3
-
-[pm2]: https://www.spigotmc.org/members/597961/
-[pm2-pm]: https://pm2.io/
-
-[sunlight]: https://www.spigotmc.org/resources/67733/
-[sunlight-comment]: https://www.spigotmc.org/threads/374716/page-39#post-4124177
-
-[mohist]: https://github.com/MohistMC/Mohist
-[mohist-swap]: https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22
-[essentialsx-pr]: https://github.com/EssentialsX/Essentials/pull/3580
-[essentialsx-psa]: https://essentialsx.net/do-not-use-mohist.html
-[mohist-ad]: https://github.com/EssentialsX/Website/pull/44
-
-[the duper trooper]: https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg
-[trooper-report]: https://cdn.discordapp.com/attachments/155145799796391936/877016425221459978/unknown.png
-
-<!-- Info stuff -->
-[server-optimization]: https://www.spigotmc.org/threads/283181/
-[server-optimization-answer]: https://www.spigotmc.org/threads/283181/page-20#post-3684550
-[ewg-code]: https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/
-
-<!-- Start of actual README -->
-
 ## Table of Contents
 
 - [The List™](#the-list)
@@ -79,12 +10,12 @@ A non-exhaustive list of projects, websites and other things that are known to h
 ### [Yatopia] and [SugarcaneMC]
 > *The Combined power of paper forks and patches for maximum instability and maintainability!*
 
-Messy, tossed salad of people that haven't even really understood the patch system. And yes, *it's [that bad!][yaptopia]*
+Messy, tossed salad of people that haven't even really understood the patch system. And yes, *it's [that bad](https://github.com/YatopiaMC/Yatopia)!*
 
 ### [Mohist]
 > *Mohist is programmed to be malicious, game-breaking, and very unstable.*
 
-Mohist tricks users into deleting official plugin jars and [installing unofficial modified builds][mohist].
+Mohist tricks users into deleting official plugin jars and [installing unofficial modified builds](https://essentialsx.net/do-not-use-mohist.html).
 
 ### Bukkit, CraftBukkit and Spigot
 > *Extremely outdated in terms of performance compared to other server software you have access to.*
@@ -112,10 +43,10 @@ Mostly just copied off each other with little to no actual work involved or impr
 ### [Kangarko]
 > *Learn how to get hated by everyone in record-time through shady advertising and privacy violations!*
 
-It's not like free Java courses such as [JetBrains Academy][academy] exist...  
-Also, uses e-mails from other sources to advertise his course[^blog-post] and lists plugin-reviews as "rating" for his courses.
+It's not like free Java courses such as [JetBrains Academy](https://www.jetbrains.com/academy/) exist...  
+Also, uses e-mails from other sources [to advertise his course](https://www.andre601.ch/blog/posts/2020/12-20-in-defense-of-spigotmc/#point-2-abusing-knowledgedata) and lists plugin-reviews as "rating" for his courses.
 
-Also, also blames everyone else for problems he faces. The latest confirmed victim of this: The entirety of SpigotMC[^spigot].
+Also, also blames everyone else for problems he faces. The latest confirmed victim of this: The entirety of [SpigotMC](https://www.spigotmc.org/threads/478408/).
 
 ### [Yooniks]
 > *The embodiment of MCM*
