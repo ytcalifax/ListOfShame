@@ -1,3 +1,30 @@
+[yatopia]: https://github.com/YatopiaMC/Yatopia
+[sugarcanemc]: https://github.com/SugarcaneMC/Sugarcane
+[mohist]: https://github.com/MohistMC/Mohist
+[worldql]: https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/
+[skinsrestorer]: https://github.com/SkinsRestorer/SkinsRestorerX
+[entitytrackerfixer]: https://github.com/Esmorall/EntityTrackerFixer
+[kangarko]: https://github.com/kangarko
+[yooniks]: https://www.mc-market.org/members/126711/
+[clearlagg]: https://www.spigotmc.org/resources/68271/
+[cmi]: https://www.spigotmc.org/resources/3742/
+[songoda]: https://songoda.com/marketplace
+[neruxvace]: https://neruxvace.net/
+[mortal mines]: https://mortalmines.com/
+[viaversion]: https://github.com/ViaVersion/ViaVersion
+[protocolsupport]: https://www.spigotmc.org/resources/7201/
+[slimefun]: https://github.com/Slimefun/Slimefun4
+[fastasyncworldedit]: https://www.spigotmc.org/resources/13932/
+[asyncworldedit]: https://www.spigotmc.org/resources/9661/
+[illegalstack]: https://www.spigotmc.org/resources/44411/
+[epicworldgenerator]: https://www.spigotmc.org/resources/8067/
+[pm2]: https://www.spigotmc.org/members/597961/
+[sunlight]: https://www.spigotmc.org/resources/67733/
+[sunlight-comment]: https://www.spigotmc.org/threads/374716/page-39#post-4124177
+[the duper trooper]: https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg
+
+<!-- Start of actual README -->
+
 ## Table of Contents
 
 - [The List™](#the-list)
