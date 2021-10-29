@@ -214,7 +214,7 @@ They swap EssentialsX's plugin jar with their own[^mohist-swap] after trying to 
 > *Exploiting bugs is fine and won't get you banned from servers /s*
 
 Clickbait YouTube channel that "leaks" exploits and other security related issues to the public and encourages its followers to report to them instead of disclosing properly.  
-And yes, they actually do[^trooper-report].
+And yes, [they actually do][trooper-report].
 
 ## Software Alternatives and Info threads
 This is the only section of this list you should *actually* take somewhat seriously.
