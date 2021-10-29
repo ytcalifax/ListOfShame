@@ -120,7 +120,7 @@ Hasn't been updated since 2014 ([7+ YEARS!](https://howoldisminecraft1710.today/
 ### [ViaVersion]
 > *1.8 - 1.17 KitPvP*
 
-Enables [**the evil**](#minecraft-1-8) to continue to live.
+ Enables the evil to continue to live.
 
 ### [ProtocolSupport]
 > *Like ViaBackwards but with more **evil***
@@ -138,7 +138,7 @@ The fastest WorldEdit alternative in terms of breaking things.
 ### [AsyncWorldEdit]
 > *Async = Better!!1!i!one!... I get a sense of deja-vu...*
 
-Just like [FAWE](#fastasyncworldedit) but slower AND breaks the WorldEdit license on top of that!
+Just like FAWE but slower AND breaks the WorldEdit license on top of that!
 
 ### [IllegalStack]
 > *Dupe & Exploit "fixer"*
