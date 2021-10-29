@@ -103,7 +103,7 @@ Got banned from Spigot and also from PayPal, than started to blame PayPal for "b
 Minigames network that won't let anything stand in the way of its urge for "success". Whether it's paying developers, or simply following up on (legal-)agreements - Noah Kemm doesn't need any of that!
 
 ### [Mortal Mines]
-> *A """"unique"""" prison server... Not*
+> *A "unique" prison server... Not*
 
 Network that mass DM bots discord servers to gain players for a pay2win prison server. Alexander Didio (aka LizardZ or Energy) has owned and killed OPMines, Sparkverse, WickedSkies, FrostyMC, and Jurassic Mines after two months once their playerbase has been milked dry.
 
