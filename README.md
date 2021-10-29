@@ -193,7 +193,7 @@ Use PaperMC (or one of its **sane** forks) and stay on the latest Minecraft vers
 Read [this reddit post](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/).
 
 ### SkinsRestorer alternatives
-For the love of god **don't run your server/network in offline mode!**
+For the love of god **don't run your server/network in offline mode!** (unless you are in a country with a mostly cracked playerbase)
 
 ### CMI alternative
 EssentialsX. Free, open source and you're more likely to get a bug fixed much faster.
