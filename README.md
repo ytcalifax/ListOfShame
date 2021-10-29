@@ -80,7 +80,7 @@ A non-exhaustive list of projects, websites and other things that are known to h
 ### [Yatopia] and [SugarcaneMC]
 > *The Combined power of paper forks and patches for maximum instability and maintainability!*
 
-Messy, tossed salad of people that haven't even really understood the patch system. And yes, *it's that bad![^yaptopia]*
+Messy, tossed salad of people that haven't even really understood the patch system. And yes, *it's [that bad!][yaptopia]*
 
 ### [Mohist]
 > *Mohist is programmed to be malicious, game-breaking, and very unstable.*
