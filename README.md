@@ -68,10 +68,6 @@
 
 <!-- Start of actual README -->
 
-# List of Shame
-A modified version of KennyTV's List of shame to make it actually more readable...  
-This may or may not get PRed to the upstream in the future.
-
 ## Table of Contents
 
 - [The List™](#the-list)
