@@ -23,6 +23,9 @@
 [sunlight-comment]: https://www.spigotmc.org/threads/374716/page-39#post-4124177
 [the duper trooper]: https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg
 
+<!-- Header stuff -->
+{% include header.html %}
+
 <!-- Start of actual README -->
 
 ## Table of Contents
