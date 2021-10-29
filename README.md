@@ -110,12 +110,12 @@ Network that mass DM bots discord servers to gain players for a pay2win prison s
 ### Minecraft 1.8
 > *An outdated version of Minecraft with more security issues than features!*
 
-Hasn't been updated since 2015 (6+ YEARS![^mc18])
+Hasn't been updated since 2015 ([6+ YEARS!](https://howoldisminecraft188.today/))
 
 ### Minecraft 1.7.10
-> *An outdated version of Minecraft with even more, high-severity security issues than features!*
+> *An even more outdated version of Minecraft with even more, high-severity security issues than features!*
 
-Hasn't been updated since 2014 (7+ YEARS![^mc1710])
+Hasn't been updated since 2014 ([7+ YEARS!](https://howoldisminecraft1710.today/))
 
 ### [ViaVersion]
 > *1.8 - 1.17 KitPvP*
@@ -149,29 +149,29 @@ Actually introduces dupes, eats 15% of your ticks, and likes to do wonky things 
 > *Get the most laggy world generation you can buy for money.*
 
 It sure is worth paying $20 (originally $40) that offers the same as dozens of free alternatives.  
-Also, actually uses code stolen from other free resources[^ewg-code] (Realistic World Gen[^rwg])
+Also, actually uses code [stolen from other free resources](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/) ([Realistic World Gen](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3))
 
 ### [PM2]
 > *Update your plugin 500 times with single additions and fixes!*
 
-Updates sure aren't published that frequently to bump the resource and reviews... right? (Not to get confused with pm2 Process Manager[^pm2-pm])
+Updates sure aren't published that frequently to bump the resource and reviews... right? (Not to get confused with [pm2 Process Manager](https://pm2.io/))
 
 ### [SunLight]
 > *Advanced server management plugin with all the plugin-breaking bugs your server needs!*
 
-It takes RGB chat formatting to a whole other level, parsing hex codes in other plugins' commands. When the author was asked about it, they said that the only way around it is to [use their library to convert them back][sunlight-comment].
+It takes RGB chat formatting to a whole other level, parsing hex codes in other plugins' commands. When the author was asked about it, they said that the only way around it is to [use their library to convert them back](https://www.spigotmc.org/threads/374716/page-39#post-4124177).
 
 ### [Mohist]
 > *Combine the most incompatible things - Bukkit and Forge - and create an abomination!*
 
-They swap EssentialsX's plugin jar with their own[^mohist-swap] after trying to submit a PR[^essentialsx-pr] to fix their own butchering of the Bukkit API.  
-*Then* tried to turn EssentialsX's PSA[^essentialsx-psa] regarding security concerns in Mohist into an ad[^mohist-ad].
+They swap EssentialsX's plugin jar with [their own](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22) after trying to [submit a PR](https://github.com/EssentialsX/Essentials/pull/3580) to fix their own butchering of the Bukkit API.  
+*Then* tried to turn [EssentialsX's PSA](https://essentialsx.net/do-not-use-mohist.html) regarding security concerns in Mohist [into an ad](https://github.com/EssentialsX/Website/pull/44).
 
 ### [The Duper Trooper]
 > *Exploiting bugs is fine and won't get you banned from servers /s*
 
 Clickbait YouTube channel that "leaks" exploits and other security related issues to the public and encourages its followers to report to them instead of disclosing properly.  
-And yes, [they actually do][trooper-report].
+And yes, [they actually do](https://cdn.discordapp.com/attachments/155145799796391936/877016425221459978/unknown.png).
 
 ## Software Alternatives and Info threads
 This is the only section of this list you should *actually* take somewhat seriously.
@@ -181,16 +181,16 @@ PaperMC, Airplane, Purpur.
 Most stable and performant will most likely be PaperMC.
 
 ### "Hybrid" Servers (Forge/anything else + Bukkit)
-Read the PSA from EssentialsX[^essentialsx-psa] for actual good alternatives (and reasons why hybrid-servers are bad).
+Read the [PSA from EssentialsX](https://essentialsx.net/do-not-use-mohist.html) for actual good alternatives (and reasons why hybrid-servers are bad).
 
 ### Anti-Lag solutions
-Read [this guide on Server optimization][server-optimization] and [this answer to it][server-optimization-answer] for setup and info.
+Read [this guide on Server optimization](https://www.spigotmc.org/threads/283181/) and [this answer to it](https://www.spigotmc.org/threads/283181/page-20#post-3684550) for setup and info.
 
 ### Dupe fixers
 Use PaperMC (or one of its **sane** forks) and stay on the latest Minecraft version. Unless you run a Creative server, then plugins to remove data-spammed items makes sense.
 
 ### EWG info and alternatives
-Read [this reddit post][ewg-code].
+Read [this reddit post](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/).
 
 ### SkinsRestorer alternatives
 For the love of god **don't run your server/network in offline mode!**
