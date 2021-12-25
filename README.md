@@ -11,6 +11,7 @@
 [songoda]: https://songoda.com/marketplace
 [neruxvace]: https://neruxvace.net/
 [mortal mines]: https://mortalmines.com/
+[heromines]: https://heromines.com/
 [viaversion]: https://github.com/ViaVersion/ViaVersion
 [protocolsupport]: https://www.spigotmc.org/resources/7201/
 [slimefun]: https://github.com/Slimefun/Slimefun4
@@ -97,7 +98,7 @@ Got banned from Spigot and also from PayPal, than started to blame PayPal for "b
 
 Minigames network that won't let anything stand in the way of its urge for "success". Whether it's paying developers, or simply following up on (legal-)agreements - Noah Kemm doesn't need any of that!
 
-### [Mortal Mines]
+### [Mortal Mines] (also [HeroMines]
 > *A "unique" prison server... Not*
 
 Network that mass DM bots discord servers to gain players for a pay2win prison server. Alexander Didio (aka LizardZ or Energy) has owned and killed OPMines, Sparkverse, WickedSkies, FrostyMC, and Jurassic Mines after two months once their playerbase has been milked dry.
